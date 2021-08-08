@@ -26,16 +26,6 @@
 6. [Lists In Markdown](#lists-in-markdown)
 7. [Necessary Things for a README](#necessary-things-for-a-readme)
 
-## 🚀 Features
-
-You are just one command away to start your next project
-
-- **Create Github Repo**
-
-- **Create Organisation Repo**
-
-- **Open Project in [VSCode](https://code.visualstudio.com/ "VSCode")**
-
 ## Manifest
 
 ```
@@ -45,7 +35,7 @@ You are just one command away to start your next project
                       1. Helmet
                       2. No Helmet
 - README.md ---> This markdown file you are reading.
-- Date-Set ----> Date-Set folder has all the images of people wearing and not wearing Helmet
+- Image ----> Image folder has all the images of people wearing and not wearing Helmet
 - movie2.mp4 --> These is the movie file on which we are going to run our Helmet-Detection
                  model
                  (Anybody can change these movie file and put there's file for testing😀)
@@ -54,15 +44,15 @@ You are just one command away to start your next project
 
 ## 🦋 Prerequisite
 
+- [Anaconda](https://www.anaconda.com/products/individual "Anaconda") software Installed or basic knowledge of [Jupyter](https://jupyter.org/ "Jupyter") notebook
+
 - [Python](https://www.python.org/ "Python") Installed
 
 - Python Basics Understanding
 
-- [Git](https://git-scm.com/ "Git OFficial") Installed
+- [OpenCV](https://pypi.org/project/opencv-python/ "OpenCV") Library Installed 
 
-- Git Basic Understanding
-
-- [GH](https://cli.github.com/ "Github CLI") Installed
+- Computer Vision Basic Understanding
 
 ## 🛠️ Installation Steps
 
