@@ -18,7 +18,7 @@
 
 ## Table of Contents
 
-1. [Prerequisite](##prerequisite)
+1. [Prerequisite](#-prerequisite)
 2. [Style Examples](#style-examples)
 3. [Embedding Code](#embedding-code)
 4. [Embedding Links](embedding-links)
