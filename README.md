@@ -26,7 +26,7 @@
 6. [Lists In Markdown](#lists-in-markdown)
 7. [Necessary Things for a README](#necessary-things-for-a-readme)
 
-## Manifest
+## 🧑🏻‍🏫 Manifest
 
 ```
 - bike.ipynb --> A python file that run's Helmet-Detection code
@@ -42,7 +42,7 @@
 ```
 
 
-## 🦋 Prerequisite
+## 🤔 Prerequisite
 
 - [Anaconda](https://www.anaconda.com/products/individual "Anaconda") software Installed or basic knowledge of [Jupyter](https://jupyter.org/ "Jupyter") notebook
 
