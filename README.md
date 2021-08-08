@@ -18,8 +18,8 @@
 
 ## Table of Contents
 
-1. [Prerequisite](#-prerequisite)
-2. [Style Examples](#style-examples)
+1. [Manifest](#manifest)
+2. [Prerequisite](#-prerequisite)
 3. [Embedding Code](#embedding-code)
 4. [Embedding Links](embedding-links)
 5. [Embedding Images](#embedding-images)
@@ -35,6 +35,18 @@ You are just one command away to start your next project
 - **Create Organisation Repo**
 
 - **Open Project in [VSCode](https://code.visualstudio.com/ "VSCode")**
+
+## Manifest
+
+```
+- bike.ipynb --> A python file that run's Helmet-Detection code
+- bike.xml   --> A xml file which has the entries of all the co-ordinates of each image(in the image folder) and has been trained on detecting 2 class 
+             1. Helmet
+             2. No Helmet
+- README.md ----> This markdown file you are reading.
+- img ----------> Images folder for the readme
+```
+
 
 ## 🦋 Prerequisite
 
