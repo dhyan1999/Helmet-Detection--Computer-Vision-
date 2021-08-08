@@ -19,8 +19,8 @@
 ## Table of Contents
 
 1. [Manifest](#-manifest)
-2. [Prerequisite](#-prerequisite)
-3. [Embedding Code](#embedding-code)
+2. [Prerequisites](#-prerequisites)
+3. [Installation Steps](#-installation-steps)
 4. [Embedding Links](embedding-links)
 5. [Embedding Images](#embedding-images)
 6. [Lists In Markdown](#lists-in-markdown)
@@ -42,9 +42,7 @@
 ```
 
 
-## 🤔 Prerequisite
-
-- [Anaconda](https://www.anaconda.com/products/individual "Anaconda") software Installed or basic knowledge of [Jupyter](https://jupyter.org/ "Jupyter") notebook
+## 🤔 Prerequisites
 
 - [Python](https://www.python.org/ "Python") Installed
 
@@ -56,21 +54,15 @@
 
 ## 🛠️ Installation Steps
 
-1. Clone the repository
+1. Install [Anaconda](https://www.anaconda.com/products/individual "Anaconda") Software
 
-```Bash
-git clone https://github.com/king-technologies/Project-Initiator.git
-```
+2. Click on Juypter Notebook
 
-2. Change the working directory
+3. Create a seperate folder of any name you want
 
-```Bash
-cd Project-Initiator
-```
+4. Upload 3 files there bike.ipynb, movie2.mp4 and bike.xml in that folder
 
-3. Add Environment Variable path of this directory
-
-4. Run the app using terminal
+5. Run bike.ipynb
 
 **🎇 You are Ready to Go!**
 
