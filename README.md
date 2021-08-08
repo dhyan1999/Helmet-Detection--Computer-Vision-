@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="https://github.com/king-technologies/Project-Initiator" title="Project Initiator">
-    <img src="https://kingtechnologies.in/assets/images/Logo.webp" width="80px" alt="Project Initiator"/>
+  <a href="https://github.com/dhyan1999/Helmet-Detection--Computer-Vision-" title="Helmet Detection">
   </a>
 </p>
 <h1 align="center">🌟 Project Initiator 🌟</h1>
