@@ -18,7 +18,7 @@
 
 ## Table of Contents
 
-1. [Manifest](#manifest)
+1. [Manifest](#-manifest)
 2. [Prerequisite](#-prerequisite)
 3. [Embedding Code](#embedding-code)
 4. [Embedding Links](embedding-links)
