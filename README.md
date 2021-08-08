@@ -2,18 +2,18 @@
   <a href="https://github.com/dhyan1999/Helmet-Detection--Computer-Vision-" title="Helmet Detection">
   </a>
 </p>
-<h1 align="center">🌟 Helmet Detection 🌟</h1>
-<p align="center">2021G COMP-5112-GDF - Research Methodolody Computer Science<</p>
+<h1 align="center">🪖 Helmet Detection 🪖</h1>
+<p align="center">2021G COMP-5112-GDF - Research Methodolody Computer Science</p>
 
 
 
 <h2 align="center">🌐 Links 🌐</h2>
 <p align="center">
-    <a href="https://youtu.be/ud4P45zhCk0" title="Project Initiator using Python">🖥️ Video</a>
+    <a href="https://youtu.be/ud4P45zhCk0" title="Helmet Detection">🖥️ Video</a>
     ·
-    <a href="https://github.com/king-technologies/Project-Initiator" title="Project Initiator">📂 Repo</a>
+    <a href="https://github.com/dhyan1999/Helmet-Detection--Computer-Vision-" title="Helmet Detection">📂 Repo</a>
     ·
-    <a href="https://github.com/king-technologies/Project-Initiator/issues/new/choose" title="🐛Report Bug/🎊Request Feature">🚀 Got Issue</a>
+    <a href="https://github.com/dhyan1999/Helmet-Detection--Computer-Vision-" title="Helmet Detection">📄 Paper</a>
 </p>
 
 ## 🚀 Features
