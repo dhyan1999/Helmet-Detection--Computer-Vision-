@@ -16,6 +16,16 @@
     <a href="https://github.com/dhyan1999/Helmet-Detection--Computer-Vision-" title="Helmet Detection">📄 Paper</a>
 </p>
 
+## Table of Contents
+
+1. [Prerequisite](#Prerequisite)
+2. [Style Examples](#style-examples)
+3. [Embedding Code](#embedding-code)
+4. [Embedding Links](embedding-links)
+5. [Embedding Images](#embedding-images)
+6. [Lists In Markdown](#lists-in-markdown)
+7. [Necessary Things for a README](#necessary-things-for-a-readme)
+
 ## 🚀 Features
 
 You are just one command away to start your next project
