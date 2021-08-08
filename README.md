@@ -20,7 +20,7 @@
 
 1. [Manifest](#-manifest)
 2. [Prerequisites](#-prerequisites)
-3. [Installation Steps](#-installation-steps)
+3. [Installation Steps](#%EF%B8%8F-installation-steps)
 4. [Embedding Links](embedding-links)
 5. [Embedding Images](#embedding-images)
 6. [Lists In Markdown](#lists-in-markdown)
