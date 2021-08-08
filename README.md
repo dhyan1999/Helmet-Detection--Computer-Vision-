@@ -2,34 +2,10 @@
   <a href="https://github.com/dhyan1999/Helmet-Detection--Computer-Vision-" title="Helmet Detection">
   </a>
 </p>
-<h1 align="center">🌟 Project Initiator 🌟</h1>
-<p align="center">Start your project with Single Command</p>
+<h1 align="center">🌟 Helmet Detection 🌟</h1>
+<p align="center">2021G COMP-5112-GDF - Research Methodolody Computer Science<</p>
 
-<p align="center">
-<a href="https://github.com/king-technologies/Project-Initiator/blob/master/LICENSE" title="License">
-<img src="https://img.shields.io/github/license/king-technologies/Project-Initiator?label=License&logo=Github&style=flat-square" alt="Project Initiator License"/>
-</a>
-<a href="https://github.com/king-technologies/Project-Initiator/fork" title="Forks">
-<img src="https://img.shields.io/github/forks/king-technologies/Project-Initiator?label=Forks&logo=Github&style=flat-square" alt="Project Initiator Forks"/>
-</a>
-<a href="https://github.com/king-technologies/Project-Initiator/stargazers" title="Stars">
-<img src="https://img.shields.io/github/stars/king-technologies/Project-Initiator?label=Stars&logo=Github&style=flat-square" alt="Project Initiator Stars"/>
-</a>
-<a href="https://github.com/king-technologies/Project-Initiator/issues" title="Issues">
-<img src="https://img.shields.io/github/issues/king-technologies/Project-Initiator?label=Issues&logo=Github&style=flat-square" alt="Project Initiator Issues"/>
-</a>
-<a href="https://github.com/king-technologies/Project-Initiator/pulls" title="Pull Requests">
-<img src="https://img.shields.io/github/issues-pr/king-technologies/Project-Initiator?label=Pull%20Requests&logo=Github&style=flat-square" alt="Project Initiator Pull Requests"/>
-</a>
-<a href="https://github.com/king-technologies/Project-Initiator" title="Repo Size">
-<img src="https://img.shields.io/github/repo-size/king-technologies/Project-Initiator?label=Repo%20Size&logo=Github&style=flat-square" alt="Project Initiator Repo Size"/>
-</a>
-<a href="https://discord.gg/CJU4UNTaFt" title="Join Community">
-<img src="https://img.shields.io/discord/737854816402800690?color=%236d82cb&label=Join%20Community&logo=discord&logoColor=%23FFFFFF&style=flat-square" alt="Join discord community for Project Initiator"/>
-</a>
-</p>
 
-<p align="center" title="Project Initiator"><img src="./assets/images/main.gif" alt="Project Initiator"/></p>
 
 <h2 align="center">🌐 Links 🌐</h2>
 <p align="center">
