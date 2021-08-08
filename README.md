@@ -40,11 +40,15 @@ You are just one command away to start your next project
 
 ```
 - bike.ipynb --> A python file that run's Helmet-Detection code
-- bike.xml   --> A xml file which has the entries of all the co-ordinates of each image(in the image folder) and has been trained on detecting 2 class 
-             1. Helmet
-             2. No Helmet
-- README.md ----> This markdown file you are reading.
-- img ----------> Images folder for the readme
+- bike.xml   --> A xml file which has the entries of all the co-ordinates of each 
+                 image(in the image folder) and has been trained on detecting two classes 
+                      1. Helmet
+                      2. No Helmet
+- README.md ---> This markdown file you are reading.
+- Image -------> Images folder has all the images of people wearing and not wearing Helmet
+- movie2.mp4 --> These is the movie file on which we are going to run our Helmet-Detection
+                 model
+                 (Anybody can change these movie file and put there's file for testing😀)
 ```
 
 
