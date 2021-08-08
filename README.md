@@ -21,7 +21,7 @@
 1. [Manifest](#-manifest)
 2. [Prerequisites](#-prerequisites)
 3. [Installation Steps](#%EF%B8%8F-installation-steps)
-4. [Embedding Links](embedding-links)
+4. [Installation of important Libraries](#-installation-of-important-libraries)
 5. [Embedding Images](#embedding-images)
 6. [Lists In Markdown](#lists-in-markdown)
 7. [Necessary Things for a README](#necessary-things-for-a-readme)
