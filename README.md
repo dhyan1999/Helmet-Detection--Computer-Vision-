@@ -45,7 +45,7 @@ You are just one command away to start your next project
                       1. Helmet
                       2. No Helmet
 - README.md ---> This markdown file you are reading.
-- Image -------> Images folder has all the images of people wearing and not wearing Helmet
+- Date-Set ----> Date-Set folder has all the images of people wearing and not wearing Helmet
 - movie2.mp4 --> These is the movie file on which we are going to run our Helmet-Detection
                  model
                  (Anybody can change these movie file and put there's file for testing😀)
