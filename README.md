@@ -66,35 +66,21 @@
 
 **🎇 You are Ready to Go!**
 
-## ❗ Available Commands
+## ❗ Installation of Important Libraries
 
-In the project directory, you can run:
+Before running the .ipynb file we need to import some of the libraries using terminal 
 
-```Bash
-create
-```
-
-Either run this command in the project folder or set the path of `create.bat` in the environmental variable for executing create command anywhere (Run, cmd, or PowerShell).
+In the Anaconda Terminal, you can run:
 
 ```Bash
-create <project_name>
+pip install opencv-python
 ```
 
-For creating Local Repo use this command and it will create a local repository in the path provided.
+For installing TKinter (If it shows the error that Tkinter is not installed)
 
 ```Bash
-create <project_name> -g
+pip install python-tk
 ```
-
-For creating a Global Repo use this command and it will create a global repository on your GitHub profile using `gh` and make & push the initial commit.
-
-```Bash
-create <project_name> -o
-```
-
-For creating an Organization Repo use this command and it will create an Organization repository on your GitHub profile using `gh` and make & push the initial commit
-
-> If you pass any other option like `-pr` then the repo will be private otherwise it will be public
 
 ## 👷 Built with
 
