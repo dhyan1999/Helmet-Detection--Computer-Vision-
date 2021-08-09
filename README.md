@@ -16,7 +16,7 @@
     <a href="https://github.com/dhyan1999/Helmet-Detection--Computer-Vision-" title="Helmet Detection">📄 Paper</a>
 </p>
 
-## Table of Contents
+## Table of Content
 
 1. [Manifest](#-manifest)
 2. [Prerequisites](#-prerequisites)
