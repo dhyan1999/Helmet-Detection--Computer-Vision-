@@ -123,8 +123,12 @@ labelimg
 ![step5](img/step5.png)
 
 - Step6 - Repeat step’s 3, 4 and 5 for the rest of the pictures. It’s important to note that, for every picture the class file will remain same but different txt files will be made. 
+
 - Step7 - So, finally after saving the changes made to the last picture one can see 1 class file and different txt files in the folder. 
-- Step8 - We will combine all these txt files into one file known as the bike.xml file and we will use this xml file in our code to detect the person wearing helmet.
+
+- Step8 - We can combine all these txt files into one xml file and we can use that xml file in the code to detect the person wearing helmet.
+
+•	Note – The xml file that we need to use for detection will be a huge file. For training and testing, we will require thousands of pictures. This will take many days to train all pictures. This is a timely task. In my project, therefore, I utilized the predefined data set bike.xml.
 
 ## 👨🏻‍💻 Implementation of Code
 
