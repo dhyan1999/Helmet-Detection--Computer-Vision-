@@ -98,6 +98,71 @@ pip install python-tk
 - Step7 - So, finally after saving the changes made to the last picture one can see 1 class file and different txt files in the folder. 
 - Step8 - We will combine all these txt files into one file known as the bike.xml file and we will use this xml file in our code to detect the person wearing helmet.
 
+## 👨🏻‍💻 Implementation of Code
+
+import libraries of python OpenCV, tkinter, ImageTk
+
+```py
+import cv2
+import tkinter as tk
+from PIL import ImageTk, Image
+```
+
+Assigning xml and mp4 file to variables
+
+```py
+cascade_src = 'bike.xml'
+video_src = 'movie2.mp4'
+```
+
+capture frames from a video
+
+```py
+cap = cv2.VideoCapture(video_src)
+fgbg = cv2.createBackgroundSubtractorMOG2()
+```
+
+Trained XML classifiers describes some features of some object we want to detect
+
+```py
+car_cascade = cv2.CascadeClassifier(cascade_src)
+```
+
+Set up GUI
+
+```py
+window = tk.Tk()  #Makes main window
+window.wm_title("Digital Microscope")
+window.config(background="#FFFFFF")
+```
+
+Graphics window
+
+```py
+imageFrame = tk.Frame(window, width=600, height=500)
+imageFrame.grid(row=0, column=0, padx=10, pady=2)
+```
+
+Capture video frames
+
+```py
+lmain = tk.Label(imageFrame)
+lmain.grid(row=0, column=0)
+```
+
+```py
+def show_frame():
+	# reads frames from a video
+    _, frame = cap.read()
+
+# convert to gray scale of each frames    
+gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
+
+# Detects cars of different sizes in the input image
+    cars = car_cascade.detectMultiScale(gray, 1.59, 1)
+
+```
+
 
 ## 📂 Directory Structure
 
