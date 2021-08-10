@@ -194,7 +194,7 @@ sliderFrame = tk.Frame(window, width=600, height=100)
 
 - 🌌 [Profile](https://github.com/dhyan1999 "Dhyan Shah")
 
-- 🏮 [Email](mailto:dhyan.shah99@gmail.com?subject=Hi%20from%20Project%20Initiator "Hi!")
+- 🏮 [Email](mailto:dhyan.shah99@gmail.com?subject=Hi%20from%20Dhyan%20Shah "Hi!")
 
 <h2 align="center">🤝 Support</h2>
 
