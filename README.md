@@ -87,7 +87,7 @@ pip install python-tk
 
 - LabelImg - LabelImg is a free, open source tool for graphically labeling images. It’s written in Python and uses QT for its graphical interface. It’s an easy, free way to label a few hundred images 
 
-- Open Anaconda Terminal and write run commands
+- Open Anaconda Terminal and write run command
 
 ```Bash
 sudo pip3 install labelimg
@@ -96,7 +96,14 @@ sudo pip3 install labelimg
 
 ## Use of labelImg in the project 
 
-- Step1 - Write the command labelImg in the command prompt which will open a window as shown below.
+- Step1 - Write the command labelImg in the Anaconda Terminal which will open a window as shown below.
+
+```Bash
+labelimg
+```
+
+![labelimg](img/labelimg.png)
+
 - Step2 - Open the directory where all the pictures are saved using the open directory link available on the left hand side.    This step will display all the images on right side small window.
 - Step3 - Make sure YOLO is selected. Then, select the first picture and choose the command create rectBox. On clicking on rectBox, a rectangle can be drawn around the face of the person. 
 - Step4 - In this step, we will create a rectangle box around the person and give it a name depending on whether the person is wearing the helmet or not. If the person is wearing a helmet, class name is given as helmet and if not then the class name is given as no helmet. Now we will save this picture.
