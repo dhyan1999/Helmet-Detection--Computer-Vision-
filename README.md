@@ -104,11 +104,25 @@ labelimg
 
 ![labelimg](img/labelimg.png)
 
-- Step2 - Open the directory where all the pictures are saved using the open directory link available on the left hand side.    This step will display all the images on right side small window.
+- Step2 - Open the directory where all the pictures are saved using the 'Open dir' link available on the left hand side. This step will display all the images on right side small window.
+
+![step2](img/step2.png)
+
 - Step3 - Make sure YOLO is selected. Then, select the first picture and choose the command create rectBox. On clicking on rectBox, a rectangle can be drawn around the face of the person. 
+
+![step3](img/step3.png)
+
 - Step4 - In this step, we will create a rectangle box around the person and give it a name depending on whether the person is wearing the helmet or not. If the person is wearing a helmet, class name is given as helmet and if not then the class name is given as no helmet. Now we will save this picture.
+
+![step41](img/step41.png)
+
+![step42](img/step42.png)
+
 - Step5 - Now after saving the picture, a class file and a txt file is formed in the folder. Class file contains the 2 classes (helmet and no helmet) that we made and the txt file contains the coordinates of the rectangle that we made around the person’s face.
-- Step6 - Step’s 3, 4 and 5 are repeated for the rest of the pictures. It’s important to note that, for every picture the class file will remain same but different txt files will be made. 
+
+![step5](img/step5.png)
+
+- Step6 - Repeat step’s 3, 4 and 5 for the rest of the pictures. It’s important to note that, for every picture the class file will remain same but different txt files will be made. 
 - Step7 - So, finally after saving the changes made to the last picture one can see 1 class file and different txt files in the folder. 
 - Step8 - We will combine all these txt files into one file known as the bike.xml file and we will use this xml file in our code to detect the person wearing helmet.
 
