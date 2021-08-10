@@ -3,9 +3,9 @@
   </a>
 </p>
 <h1 align="center">🪖 Helmet Detection 🪖</h1>
+
+![uni](img/uni.jpeg)
 <p align="center">2021G COMP-5112-GDF - Research Methodolody Computer Science</p>
-
-
 
 <h2 align="center">🌐 Links 🌐</h2>
 <p align="center">
