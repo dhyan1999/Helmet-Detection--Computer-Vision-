@@ -25,7 +25,7 @@
 5. [Installation of labelImg](#installation-of-labelImg)
 6. [Use of labelImg in the project](#Use-of-labelImg-in-the-project)
 7. [Implementation of Code](##-implementation-of-code)
-8. [Future scope](##Future-scope)
+8. [Future scope](#-future-scope)
 
 ## 🧑🏻‍🏫 Manifest
 
@@ -182,12 +182,6 @@ Slider window (slider controls stage position)
 sliderFrame = tk.Frame(window, width=600, height=100)
 ```
 
-## 📂 Directory Structure
-
-> [`create.bat`](https://github.com/king-technologies/Project-Initiator/blob/main/create.bat "Create Command"): Command file that will execute the python file
-
-> [`remote.py`](https://github.com/king-technologies/Project-Initiator/blob/main/remote.py "Main File"): Python file, the main file that contains the script
-
 ## 🎊 Future Scope
 
 - In future this project can be extended to detect the number plates of bikes. 
@@ -196,13 +190,11 @@ sliderFrame = tk.Frame(window, width=600, height=100)
 
 ## 🧑🏻 Author
 
-**Rohit Jain**
+**Dhyan Shah**
 
-- 🌌 [Profile](https://github.com/Rohit19060 "Rohit Jain")
+- 🌌 [Profile](https://github.com/dhyan1999 "Dhyan Shah")
 
-- 🏮 [Email](mailto:rohitjain19060@gmail.com?subject=Hi%20from%20Project%20Initiator "Hi!")
-
-- 🦁 [Website](https://kingtechnologies.in "Welcome")
+- 🏮 [Email](mailto:dhyan.shah99@gmail.com?subject=Hi%20from%20Project%20Initiator "Hi!")
 
 <h2 align="center">🤝 Support</h2>
 
@@ -218,18 +210,3 @@ sliderFrame = tk.Frame(window, width=600, height=100)
 </p>
 
 <p align="center">Made with Python & ❤️ in India</p>
-
-# helmetdetection
-Helmet Detection With GUI in python tkinter.
-
-I created Graphical user Interface in Phase 1.
-
-Now in Phase 2:
-I created a script to detect bike on video footage.
-But that is not yet integrated in GUI part.
-
-I am still making algorithm for helmet detection.
-
-I will update the code and upload it as soon as the beta test is completed.
-
-Thank You.
