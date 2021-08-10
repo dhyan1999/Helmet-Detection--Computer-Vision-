@@ -115,7 +115,7 @@ cascade_src = 'bike.xml'
 video_src = 'movie2.mp4'
 ```
 
-capture frames from a video
+Capture frames from a video
 
 ```py
 cap = cv2.VideoCapture(video_src)
