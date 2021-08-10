@@ -39,7 +39,7 @@
 - Image ----> Image folder has all the images of people wearing and not wearing Helmet
 - movie2.mp4 --> These is the movie file on which we are going to run our Helmet-Detection
                  model
-                 (Anybody can change these movie file and put there's file for testing😀)
+                 (Anybody can change this movie file and put there file for testing😀)
 ```
 
 
