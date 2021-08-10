@@ -22,7 +22,7 @@
 2. [Prerequisites](#-prerequisites)
 3. [Installation Steps](#%EF%B8%8F-installation-steps)
 4. [Installation of important Libraries](#-installation-of-important-libraries)
-5. [Embedding Images](#embedding-images)
+5. [Installation of labelImg](#installation-of-labelImg)
 6. [Lists In Markdown](#lists-in-markdown)
 7. [Necessary Things for a README](#necessary-things-for-a-readme)
 
@@ -82,17 +82,11 @@ For installing TKinter (If it shows the error that Tkinter is not installed)
 pip install python-tk
 ```
 
-## 👷 Built with
+## Installation of labelImg
 
-- [Python](https://www.python.org/ "Python"): as Main Coding Language for executing commands
+- LabelImg - LabelImg is a free, open source tool for graphically labeling images. It’s written in Python and uses QT for its graphical interface. It’s an easy, free way to label a few hundred images 
+- Installation steps as in command prompt.
 
-- [Batch](https://en.wikipedia.org/wiki/Batch_file "Batch") : For python file executor
-
-- [Github](https://github.com/ "Github") : For Repo Storage and source code management
-
-- [Git](https://git-scm.com/ "Git") : For Version Control System
-
-- [Github CLI](https://cli.github.com/ "Github CLI"): For Direct Interacting with Github
 
 ## 📂 Directory Structure
 
