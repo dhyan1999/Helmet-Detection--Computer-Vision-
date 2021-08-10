@@ -86,6 +86,7 @@ pip install python-tk
 ## Installation of labelImg
 
 - LabelImg - LabelImg is a free, open source tool for graphically labeling images. It’s written in Python and uses QT for its graphical interface. It’s an easy, free way to label a few hundred images 
+
 - Installation steps as in command prompt.
 
 ## Use of labelImg in the project 
