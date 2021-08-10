@@ -155,14 +155,31 @@ def show_frame():
 	# reads frames from a video
     _, frame = cap.read()
 
-# convert to gray scale of each frames    
-gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
+    # convert to gray scale of each frames    
+    gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
 
-# Detects cars of different sizes in the input image
+    # Detects cars of different sizes in the input image
     cars = car_cascade.detectMultiScale(gray, 1.59, 1)
-
 ```
 
+To draw a rectangle in each cars
+
+```py
+for (x, y, w, h) in cars:
+    cv2.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 215), 2)
+    color = cv2.cvtColor(frame, cv2.COLOR_BGR2RGBA)
+    img = Image.fromarray(color)
+    imgtk = ImageTk.PhotoImage(image=img)
+    lmain.imgtk = imgtk
+    lmain.configure(image=imgtk)
+    lmain.after(10, show_frame)
+```
+
+Slider window (slider controls stage position)
+
+```py
+sliderFrame = tk.Frame(window, width=600, height=100)
+```
 
 ## 📂 Directory Structure
 
