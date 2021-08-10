@@ -24,7 +24,8 @@
 4. [Installation of important Libraries](#-installation-of-important-libraries)
 5. [Installation of labelImg](#installation-of-labelImg)
 6. [Use of labelImg in the project](#Use-of-labelImg-in-the-project)
-7. [Necessary Things for a README](#necessary-things-for-a-readme)
+7. [Implementation of Code](##-implementation-of-code)
+8. [Future scope](##Future-scope)
 
 ## 🧑🏻‍🏫 Manifest
 
@@ -187,13 +188,11 @@ sliderFrame = tk.Frame(window, width=600, height=100)
 
 > [`remote.py`](https://github.com/king-technologies/Project-Initiator/blob/main/remote.py "Main File"): Python file, the main file that contains the script
 
-## 🎊 Future Updates
+## 🎊 Future Scope
 
-- [ ] Add project boilerplate automatically for different languages and frameworks
+- In future this project can be extended to detect the number plates of bikes. 
 
-- [ ] Add GUI
-
-- [ ] Add Other VCS
+- Proper GUI
 
 ## 🧑🏻 Author
 
