@@ -212,6 +212,9 @@ Slider window (slider controls stage position)
 ```py
 sliderFrame = tk.Frame(window, width=600, height=100)
 ```
+## Output
+
+![movie2](img/movie2.mp4)
 
 ## 🎊 Future Scope
 
