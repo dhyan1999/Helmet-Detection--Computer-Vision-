@@ -27,6 +27,7 @@
 6. [Use of labelImg in the project](#Use-of-labelImg-in-the-project)
 7. [Implementation of Code](##-implementation-of-code)
 8. [Future scope](#-future-scope)
+9. [Video](#video)
 
 ## 🧑🏻‍🏫 Manifest
 
