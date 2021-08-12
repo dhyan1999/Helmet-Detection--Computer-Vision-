@@ -15,9 +15,9 @@
     ·
     <a href="https://github.com/dhyan1999/Helmet-Detection--Computer-Vision-/blob/main/Paper.pdf" title="Helmet Detection">📄 Paper</a>
 </p>
-<p align="center">
+
 [![Helmet-Detection--Computer-Vision-](https://img.youtube.com/vi/aaNipNmnv4c/0.jpg)](https://www.youtube.com/watch?v=aaNipNmnv4c)
-</p>
+
 
 
 ## Table of Content
