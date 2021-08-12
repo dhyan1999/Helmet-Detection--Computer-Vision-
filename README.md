@@ -18,6 +18,7 @@
 
 Video -- > [![Helmet-Detection--Computer-Vision-](https://img.youtube.com/vi/aaNipNmnv4c/0.jpg)](https://www.youtube.com/watch?v=aaNipNmnv4c)
 
+<p align="center">Video</p>
 
 
 ## Table of Content
