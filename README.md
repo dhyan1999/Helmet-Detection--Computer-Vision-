@@ -194,7 +194,7 @@ def show_frame():
     cars = car_cascade.detectMultiScale(gray, 1.59, 1)
 ```
 
-To draw a rectangle in each cars
+To draw a rectangle in each bikes
 
 ```py
 for (x, y, w, h) in cars:
