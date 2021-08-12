@@ -190,7 +190,7 @@ def show_frame():
     # convert to gray scale of each frames    
     gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
 
-    # Detects cars of different sizes in the input image
+    # Detects bikes of different sizes in the input image
     cars = car_cascade.detectMultiScale(gray, 1.59, 1)
 ```
 
