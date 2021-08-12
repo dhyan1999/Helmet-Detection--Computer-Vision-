@@ -9,7 +9,7 @@
 
 <h2 align="center">🌐 Links 🌐</h2>
 <p align="center">
-    <a href="https://youtu.be/ud4P45zhCk0" title="Helmet Detection">🖥️ Video</a>
+    <a href="https://www.youtube.com/watch?v=aaNipNmnv4c" title="Helmet Detection">🖥️ Video</a>
     ·
     <a href="https://github.com/dhyan1999/Helmet-Detection--Computer-Vision-" title="Helmet Detection">📂 Repo</a>
     ·
