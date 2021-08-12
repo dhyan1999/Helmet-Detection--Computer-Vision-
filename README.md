@@ -16,10 +16,6 @@
     <a href="https://github.com/dhyan1999/Helmet-Detection--Computer-Vision-/blob/main/Paper.pdf" title="Helmet Detection">📄 Paper</a>
 </p>
 
-Video -- > [![Helmet-Detection--Computer-Vision-](https://img.youtube.com/vi/aaNipNmnv4c/0.jpg)](https://www.youtube.com/watch?v=aaNipNmnv4c)
-
-<p align="center">Video</p>
-
 
 ## Table of Content
 
@@ -217,9 +213,9 @@ Slider window (slider controls stage position)
 ```py
 sliderFrame = tk.Frame(window, width=600, height=100)
 ```
-## Output
+## Video 
 
-![movie2](img/movie2.mp4)
+[![Helmet-Detection--Computer-Vision-](https://img.youtube.com/vi/aaNipNmnv4c/0.jpg)](https://www.youtube.com/watch?v=aaNipNmnv4c)
 
 ## 🎊 Future Scope
 
