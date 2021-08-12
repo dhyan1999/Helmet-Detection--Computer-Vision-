@@ -13,7 +13,7 @@
     ·
     <a href="https://github.com/dhyan1999/Helmet-Detection--Computer-Vision-" title="Helmet Detection">📂 Repo</a>
     ·
-    <a href="https://github.com/dhyan1999/Helmet-Detection--Computer-Vision-" title="Helmet Detection">📄 Paper</a>
+    <a href="https://github.com/dhyan1999/Helmet-Detection--Computer-Vision-/blob/main/RM.pdf" title="Helmet Detection">📄 Paper</a>
 </p>
 
 ## Table of Content
