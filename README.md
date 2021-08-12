@@ -2,7 +2,7 @@
   <a href="https://github.com/dhyan1999/Helmet-Detection--Computer-Vision-" title="Helmet Detection">
   </a>
 </p>
-<h1 align="center">🪖 Helmet Detection 🪖</h1>
+<h1 align="center"> Detecting helmet using YOLOv2 and YOLOv3 </h1>
 
 ![uni](img/uni.jpeg)
 <p align="center">2021G COMP-5112-GDF - Research Methodolody Computer Science</p>
@@ -13,7 +13,7 @@
     ·
     <a href="https://github.com/dhyan1999/Helmet-Detection--Computer-Vision-" title="Helmet Detection">📂 Repo</a>
     ·
-    <a href="https://github.com/dhyan1999/Helmet-Detection--Computer-Vision-" title="Helmet Detection">📄 Paper</a>
+    <a href="https://github.com/dhyan1999/Helmet-Detection--Computer-Vision-/blob/main/Paper.pdf" title="Helmet Detection">📄 Paper</a>
 </p>
 
 ## Table of Content
@@ -190,11 +190,11 @@ def show_frame():
     # convert to gray scale of each frames    
     gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
 
-    # Detects cars of different sizes in the input image
+    # Detects bikes of different sizes in the input image
     cars = car_cascade.detectMultiScale(gray, 1.59, 1)
 ```
 
-To draw a rectangle in each cars
+To draw a rectangle in each bikes
 
 ```py
 for (x, y, w, h) in cars:
